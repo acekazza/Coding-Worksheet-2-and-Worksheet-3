@@ -70,3 +70,7 @@ a{
     font-size: 25px;
     font-weight: bold;
 }
+
+.section-one {
+    border: 2.5px solid whitesmoke;
+}
