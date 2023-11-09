@@ -88,13 +88,11 @@ a{
 }
 
 .cake-item {
-    border: 1px dashed grey;
     width: 275px;
     height: 275px;
     padding: 5px;
 }
 
 .cake-group{
-    border: 2.5px solid rgb(57, 80, 57);
-    width: 275px;
+    width: 285px;
 }
